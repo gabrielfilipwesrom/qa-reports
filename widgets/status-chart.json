@@ -1,1 +1,1 @@
-[{"uid":"7f51c01f91a83344","name":"test_reservation_and_pay_with_voucher","time":{"start":1775810990973,"stop":1775811054152,"duration":63179},"status":"broken","severity":"normal"},{"uid":"5832e2772d5aae1c","name":"test_quick_search_reservation_cancel_reservation_flow","time":{"start":1775810916462,"stop":1775810986523,"duration":70061},"status":"passed","severity":"normal"}]
+[]
