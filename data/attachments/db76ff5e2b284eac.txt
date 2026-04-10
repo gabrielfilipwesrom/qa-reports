@@ -1,0 +1,6 @@
+INFO:dropbox:Request to files/upload
+INFO:dropbox:ExpiredCredentials status_code=401: Refreshing and Retrying
+WARNING:dropbox:Unable to refresh access token without                 refresh token and app key
+INFO:dropbox:Request to files/upload
+INFO:dropbox:Request to files/upload
+INFO:dropbox:Request to sharing/create_shared_link_with_settings
