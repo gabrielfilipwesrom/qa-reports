@@ -1,4 +1,3 @@
-Attempt 1: Price element not found, retrying...
 Element Text: Alegeti o optiune
 Element Text: Neplata
 Element Text: Refacere pe alta perioada
