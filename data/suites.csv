@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","75579","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Mon Apr 20 09:59:40 UTC 2026","failed","Mon Apr 20 10:00:56 UTC 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","75261","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Mon Apr 20 10:28:15 UTC 2026","failed","Mon Apr 20 10:29:30 UTC 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
