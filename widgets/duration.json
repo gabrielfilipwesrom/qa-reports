@@ -1,1 +1,1 @@
-[{"uid":"fc65919f390e22c1","name":"test_trav_22_add_and_remove_rooms_from_cart","time":{"start":1777021759400,"stop":1777021835495,"duration":76095},"status":"failed","severity":"normal"}]
+[{"uid":"689885afc75f6869","name":"test_reservation_and_pay_with_voucher","time":{"start":1777097419890,"stop":1777097488153,"duration":68263},"status":"passed","severity":"normal"},{"uid":"1799cdabfd41462c","name":"test_quick_search_reservation_cancel_reservation_flow","time":{"start":1777097271889,"stop":1777097414804,"duration":142915},"status":"passed","severity":"normal"}]
