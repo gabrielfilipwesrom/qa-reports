@@ -1,2 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","75623","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Mon May 04 09:09:02 UTC 2026","failed","Mon May 04 09:10:17 UTC 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","65818","test_reservation_and_pay_with_voucher","tests.scripts","Tue May 05 06:08:50 UTC 2026","passed","Tue May 05 06:09:55 UTC 2026","","reservation_and_pay_with_voucher_test","",""
+"","51539","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Tue May 05 06:07:54 UTC 2026","passed","Tue May 05 06:08:46 UTC 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
