@@ -1,0 +1,9 @@
+Camere găsite și datele lor:
+Index: 0, Disponibilitate: 34, Detalii: N/A
+Index: 1, Disponibilitate: 5, Detalii: N/A
+Index: 2, Disponibilitate: 79, Detalii: N/A
+Verificare cameră: Index: 0, Disponibilitate: 34, Detalii: N/A
+Camera validă găsită: Index: 0
+ Camere in Cos 1
+ Camere in Cos 2
+ Camere in Cos 1
