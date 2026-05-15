@@ -1,0 +1,13 @@
+Element Text: Alegeti o optiune
+Element Text: Neplata
+Element Text: Refacere pe alta perioada
+Element Text: Neconfirmata de hotel
+Element Text: Modificare nume
+Element Text: Stornare avans / nota credit
+Element Text: Modificare hotel
+Element Text: Modificare structura
+Element Text: Modificare tip oferta
+Element Text: Anulare cu emitere nota credit
+Element Text: Neplata CRON
+Element Text: Anulare XML
+Element Text: TEST
