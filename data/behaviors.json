@@ -1,1 +1,1 @@
-{"uid":"b1a8273437954620fa374b796ffaacdd","name":"behaviors","children":[{"name":"test_trav_22_add_and_remove_rooms_from_cart","uid":"1e8b4ba5aa354d4e","parentUid":"b1a8273437954620fa374b796ffaacdd","status":"failed","time":{"start":1779268146336,"stop":1779268222098,"duration":75762},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":["production"]}]}
+{"uid":"b1a8273437954620fa374b796ffaacdd","name":"behaviors","children":[]}
