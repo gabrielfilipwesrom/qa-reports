@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","86626","test_reservation_and_pay_with_voucher","tests.scripts","Fri May 29 21:04:17 UTC 2026","passed","Fri May 29 21:05:43 UTC 2026","","reservation_and_pay_with_voucher_test","",""
-"","19020","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Fri May 29 21:05:48 UTC 2026","broken","Fri May 29 21:06:07 UTC 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
-"","68697","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Fri May 29 21:03:04 UTC 2026","passed","Fri May 29 21:04:12 UTC 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"","29522","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Fri May 29 21:13:45 UTC 2026","passed","Fri May 29 21:14:15 UTC 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","62734","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Fri May 29 21:11:20 UTC 2026","passed","Fri May 29 21:12:23 UTC 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"","72822","test_reservation_and_pay_with_voucher","tests.scripts","Fri May 29 21:12:28 UTC 2026","passed","Fri May 29 21:13:41 UTC 2026","","reservation_and_pay_with_voucher_test","",""
