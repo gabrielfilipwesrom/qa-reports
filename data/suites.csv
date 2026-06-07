@@ -1,7 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","78920","test_reservation_and_pay_with_voucher","tests.scripts","Sun Jun 07 06:09:53 UTC 2026","passed","Sun Jun 07 06:11:12 UTC 2026","","reservation_and_pay_with_voucher_test","",""
-"","133068","test_reservation_with_local_service_and_pay","tests.scripts","Sun Jun 07 06:11:16 UTC 2026","passed","Sun Jun 07 06:13:29 UTC 2026","","reservation_with_local_service_and_pay_test","",""
-"","25179","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Sun Jun 07 06:13:33 UTC 2026","passed","Sun Jun 07 06:13:59 UTC 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
-"","61279","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Sun Jun 07 06:08:47 UTC 2026","passed","Sun Jun 07 06:09:49 UTC 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
-"","154135","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Sun Jun 07 06:14:04 UTC 2026","passed","Sun Jun 07 06:16:38 UTC 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
-"","44464","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Sun Jun 07 06:07:59 UTC 2026","broken","Sun Jun 07 06:08:43 UTC 2026","","trav_51_platita_partial_op_test","",""
+"","29421","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Sun Jun 07 09:09:07 UTC 2026","passed","Sun Jun 07 09:09:36 UTC 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
