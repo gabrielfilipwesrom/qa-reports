@@ -1,0 +1,2 @@
+Platit
+Neplatit Genereaza link plata
