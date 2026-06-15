@@ -1,18 +1,18 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","98884","test_reservation_with_local_service_and_pay","tests.scripts","Sun Jun 14 16:03:51 UTC 2026","failed","Sun Jun 14 16:05:29 UTC 2026","","reservation_with_local_service_and_pay_test","",""
-"","81407","test_reservation_and_pay_with_voucher","tests.scripts","Sun Jun 14 16:02:25 UTC 2026","passed","Sun Jun 14 16:03:46 UTC 2026","","reservation_and_pay_with_voucher_test","",""
+"","79385","test_reservation_and_pay_with_voucher","tests.scripts","Mon Jun 15 06:10:40 UTC 2026","passed","Mon Jun 15 06:12:00 UTC 2026","","reservation_and_pay_with_voucher_test","",""
+"","44480","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Mon Jun 15 06:09:52 UTC 2026","broken","Mon Jun 15 06:10:36 UTC 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
 "
     Test Case TRAV-52 : Platita partial - Tichete vacanta
 
     Summary:
     Verifica incasare pentru facturile platite partial si rezervarea anulata,
     fara bifa ""Anuleaza fara penalizare""
-    ","79697","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Sun Jun 14 16:05:34 UTC 2026","failed","Sun Jun 14 16:06:54 UTC 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
+    ","77571","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Mon Jun 15 06:14:29 UTC 2026","failed","Mon Jun 15 06:15:47 UTC 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
+"","140753","test_reservation_with_local_service_and_pay","tests.scripts","Mon Jun 15 06:12:05 UTC 2026","passed","Mon Jun 15 06:14:25 UTC 2026","","reservation_with_local_service_and_pay_test","",""
 "
     Test Case TRAV-51 : Platita partial - OP
 
     Summary:
     Verifica incasarea pentru facturile platite partial si rezervarea anulata,
     fara bifa ""Anuleaza fara penalizare""
-    ","113559","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Sun Jun 14 15:59:29 UTC 2026","failed","Sun Jun 14 16:01:22 UTC 2026","","trav_51_platita_partial_op_test","",""
-"","51386","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Sun Jun 14 16:01:27 UTC 2026","passed","Sun Jun 14 16:02:19 UTC 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+    ","102013","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Mon Jun 15 06:08:06 UTC 2026","failed","Mon Jun 15 06:09:48 UTC 2026","","trav_51_platita_partial_op_test","",""
