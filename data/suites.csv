@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","10373","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Tue Jun 30 22:00:00 EEST 2026","broken","Tue Jun 30 22:00:11 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
-"","42649","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Tue Jun 30 21:59:14 EEST 2026","passed","Tue Jun 30 21:59:57 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"","44541","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Tue Jun 30 23:29:32 EEST 2026","passed","Tue Jun 30 23:30:17 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"","16763","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Tue Jun 30 23:30:21 EEST 2026","passed","Tue Jun 30 23:30:37 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
