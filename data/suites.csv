@@ -1,19 +1,19 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"
-    Test Case TRAV-51 : Platita partial - OP
-
-    Summary:
-    Verifica incasarea pentru facturile platite partial si rezervarea anulata,
-    fara bifa ""Anuleaza fara penalizare""
-    ","99358","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Tue Jun 30 23:36:08 EEST 2026","passed","Tue Jun 30 23:37:48 EEST 2026","","trav_51_platita_partial_op_test","",""
-"","1742","test_reservation_with_local_service_and_pay","tests.scripts","Tue Jun 30 23:40:00 EEST 2026","broken","Tue Jun 30 23:40:02 EEST 2026","","reservation_with_local_service_and_pay_test","",""
-"","20955","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Tue Jun 30 23:40:06 EEST 2026","passed","Tue Jun 30 23:40:27 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
-"","70412","test_reservation_and_pay_with_voucher","tests.scripts","Tue Jun 30 23:38:46 EEST 2026","passed","Tue Jun 30 23:39:56 EEST 2026","","reservation_and_pay_with_voucher_test","",""
-"","49678","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Tue Jun 30 23:37:52 EEST 2026","passed","Tue Jun 30 23:38:41 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"","80253","test_reservation_with_local_service_and_pay","tests.scripts","Wed Jul 01 09:12:30 EEST 2026","passed","Wed Jul 01 09:13:51 EEST 2026","","reservation_with_local_service_and_pay_test","",""
+"","53858","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Wed Jul 01 09:10:09 EEST 2026","passed","Wed Jul 01 09:11:02 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
 "
     Test Case TRAV-52 : Platita partial - Tichete vacanta
 
     Summary:
     Verifica incasare pentru facturile platite partial si rezervarea anulata,
     fara bifa ""Anuleaza fara penalizare""
-    ","71391","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Tue Jun 30 23:40:31 EEST 2026","passed","Tue Jun 30 23:41:43 EEST 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
+    ","74504","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Wed Jul 01 09:14:20 EEST 2026","passed","Wed Jul 01 09:15:35 EEST 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
+"
+    Test Case TRAV-51 : Platita partial - OP
+
+    Summary:
+    Verifica incasarea pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","111617","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Wed Jul 01 09:08:12 EEST 2026","passed","Wed Jul 01 09:10:04 EEST 2026","","trav_51_platita_partial_op_test","",""
+"","21423","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Wed Jul 01 09:13:55 EEST 2026","passed","Wed Jul 01 09:14:16 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","78985","test_reservation_and_pay_with_voucher","tests.scripts","Wed Jul 01 09:11:07 EEST 2026","passed","Wed Jul 01 09:12:26 EEST 2026","","reservation_and_pay_with_voucher_test","",""
