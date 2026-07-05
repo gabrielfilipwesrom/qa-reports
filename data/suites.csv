@@ -1,3 +1,19 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","17621","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Sat Jul 04 12:09:48 EEST 2026","passed","Sat Jul 04 12:10:06 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
-"","45675","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Sat Jul 04 12:08:58 EEST 2026","passed","Sat Jul 04 12:09:44 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"","81034","test_reservation_and_pay_with_voucher","tests.scripts","Sun Jul 05 09:10:07 EEST 2026","passed","Sun Jul 05 09:11:28 EEST 2026","","reservation_and_pay_with_voucher_test","",""
+"
+    Test Case TRAV-51 : Platita partial - OP
+
+    Summary:
+    Verifica incasarea pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","109233","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Sun Jul 05 09:08:04 EEST 2026","passed","Sun Jul 05 09:09:54 EEST 2026","","trav_51_platita_partial_op_test","",""
+"
+    Test Case TRAV-52 : Platita partial - Tichete vacanta
+
+    Summary:
+    Verifica incasare pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","69141","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Sun Jul 05 09:13:10 EEST 2026","failed","Sun Jul 05 09:14:19 EEST 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
+"","68181","test_reservation_with_local_service_and_pay","tests.scripts","Sun Jul 05 09:11:33 EEST 2026","broken","Sun Jul 05 09:12:41 EEST 2026","","reservation_with_local_service_and_pay_test","",""
+"","3827","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Sun Jul 05 09:09:58 EEST 2026","broken","Sun Jul 05 09:10:02 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"","19902","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Sun Jul 05 09:12:46 EEST 2026","passed","Sun Jul 05 09:13:06 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
