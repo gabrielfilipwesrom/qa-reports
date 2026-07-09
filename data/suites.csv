@@ -1,19 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","52706","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Thu Jul 09 09:10:38 EEST 2026","passed","Thu Jul 09 09:11:31 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
-"
-    Test Case TRAV-51 : Platita partial - OP
-
-    Summary:
-    Verifica incasarea pentru facturile platite partial si rezervarea anulata,
-    fara bifa ""Anuleaza fara penalizare""
-    ","112393","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Thu Jul 09 09:08:41 EEST 2026","passed","Thu Jul 09 09:10:33 EEST 2026","","trav_51_platita_partial_op_test","",""
-"","68765","test_reservation_and_pay_with_voucher","tests.scripts","Thu Jul 09 09:11:36 EEST 2026","passed","Thu Jul 09 09:12:45 EEST 2026","","reservation_and_pay_with_voucher_test","",""
-"","71020","test_reservation_with_local_service_and_pay","tests.scripts","Thu Jul 09 09:12:49 EEST 2026","passed","Thu Jul 09 09:14:00 EEST 2026","","reservation_with_local_service_and_pay_test","",""
-"
-    Test Case TRAV-52 : Platita partial - Tichete vacanta
-
-    Summary:
-    Verifica incasare pentru facturile platite partial si rezervarea anulata,
-    fara bifa ""Anuleaza fara penalizare""
-    ","70027","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Thu Jul 09 09:14:29 EEST 2026","passed","Thu Jul 09 09:15:39 EEST 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
-"","20003","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Thu Jul 09 09:14:05 EEST 2026","passed","Thu Jul 09 09:14:25 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","17341","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Thu Jul 09 12:09:46 EEST 2026","failed","Thu Jul 09 12:10:04 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","44998","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Thu Jul 09 12:08:57 EEST 2026","passed","Thu Jul 09 12:09:42 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
