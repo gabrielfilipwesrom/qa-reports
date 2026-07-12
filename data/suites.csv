@@ -1,3 +1,19 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","45346","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Sat Jul 11 12:09:01 EEST 2026","passed","Sat Jul 11 12:09:46 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
-"","17876","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Sat Jul 11 12:09:50 EEST 2026","passed","Sat Jul 11 12:10:08 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","20351","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Sun Jul 12 09:13:46 EEST 2026","passed","Sun Jul 12 09:14:06 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","80679","test_reservation_with_local_service_and_pay","tests.scripts","Sun Jul 12 09:12:21 EEST 2026","passed","Sun Jul 12 09:13:41 EEST 2026","","reservation_with_local_service_and_pay_test","",""
+"
+    Test Case TRAV-51 : Platita partial - OP
+
+    Summary:
+    Verifica incasarea pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","112841","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Sun Jul 12 09:07:58 EEST 2026","passed","Sun Jul 12 09:09:51 EEST 2026","","trav_51_platita_partial_op_test","",""
+"","77979","test_reservation_and_pay_with_voucher","tests.scripts","Sun Jul 12 09:10:58 EEST 2026","passed","Sun Jul 12 09:12:16 EEST 2026","","reservation_and_pay_with_voucher_test","",""
+"","57750","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Sun Jul 12 09:09:56 EEST 2026","passed","Sun Jul 12 09:10:54 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"
+    Test Case TRAV-52 : Platita partial - Tichete vacanta
+
+    Summary:
+    Verifica incasare pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","73835","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Sun Jul 12 09:14:10 EEST 2026","passed","Sun Jul 12 09:15:24 EEST 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
