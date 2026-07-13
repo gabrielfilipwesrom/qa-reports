@@ -1,3 +1,19 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","44728","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Sun Jul 12 12:09:06 EEST 2026","passed","Sun Jul 12 12:09:51 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
-"","17386","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Sun Jul 12 12:09:55 EEST 2026","passed","Sun Jul 12 12:10:12 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","21520","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Mon Jul 13 09:13:37 EEST 2026","passed","Mon Jul 13 09:13:58 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"
+    Test Case TRAV-52 : Platita partial - Tichete vacanta
+
+    Summary:
+    Verifica incasare pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","129133","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Mon Jul 13 09:14:03 EEST 2026","passed","Mon Jul 13 09:16:12 EEST 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
+"
+    Test Case TRAV-51 : Platita partial - OP
+
+    Summary:
+    Verifica incasarea pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","109037","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Mon Jul 13 09:07:55 EEST 2026","passed","Mon Jul 13 09:09:44 EEST 2026","","trav_51_platita_partial_op_test","",""
+"","55184","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Mon Jul 13 09:09:49 EEST 2026","passed","Mon Jul 13 09:10:44 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"","74472","test_reservation_and_pay_with_voucher","tests.scripts","Mon Jul 13 09:10:48 EEST 2026","passed","Mon Jul 13 09:12:03 EEST 2026","","reservation_and_pay_with_voucher_test","",""
+"","85042","test_reservation_with_local_service_and_pay","tests.scripts","Mon Jul 13 09:12:07 EEST 2026","passed","Mon Jul 13 09:13:32 EEST 2026","","reservation_with_local_service_and_pay_test","",""
