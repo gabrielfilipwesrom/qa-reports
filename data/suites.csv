@@ -1,3 +1,19 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","16855","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Fri Jul 31 12:09:32 EEST 2026","passed","Fri Jul 31 12:09:48 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
-"","35496","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Fri Jul 31 12:08:52 EEST 2026","passed","Fri Jul 31 12:09:28 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"
+    Test Case TRAV-51 : Platita partial - OP
+
+    Summary:
+    Verifica incasarea pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","120213","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Sat Aug 01 09:08:05 EEST 2026","passed","Sat Aug 01 09:10:05 EEST 2026","","trav_51_platita_partial_op_test","",""
+"","18444","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Sat Aug 01 09:13:56 EEST 2026","passed","Sat Aug 01 09:14:15 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","73956","test_reservation_with_local_service_and_pay","tests.scripts","Sat Aug 01 09:12:38 EEST 2026","passed","Sat Aug 01 09:13:52 EEST 2026","","reservation_with_local_service_and_pay_test","",""
+"
+    Test Case TRAV-52 : Platita partial - Tichete vacanta
+
+    Summary:
+    Verifica incasare pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","77826","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Sat Aug 01 09:14:20 EEST 2026","passed","Sat Aug 01 09:15:38 EEST 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
+"","59098","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Sat Aug 01 09:10:10 EEST 2026","passed","Sat Aug 01 09:11:09 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"","79195","test_reservation_and_pay_with_voucher","tests.scripts","Sat Aug 01 09:11:14 EEST 2026","passed","Sat Aug 01 09:12:33 EEST 2026","","reservation_and_pay_with_voucher_test","",""
