@@ -1,0 +1,2 @@
+
+[PERF LOG - Save Reservation] Timp actual: 15.1086s | Limita maxima (+30%): 15.4505s
