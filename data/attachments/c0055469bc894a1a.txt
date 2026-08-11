@@ -1,2 +1,0 @@
-
-[PERF LOG - Search Client Name] Timp actual de încărcare: 2.4243s | Limita maxima (+30%): 2.4570s
