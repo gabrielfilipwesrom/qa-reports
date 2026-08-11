@@ -1,0 +1,2 @@
+
+[PERF LOG - Search Last Week] Timp actual: 7.2191s | Limita maxima (+30%): 7.8000s
