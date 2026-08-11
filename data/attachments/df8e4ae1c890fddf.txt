@@ -1,2 +1,0 @@
-
-[PERF LOG - Open Random Reservation] Timp actual de încărcare: 1.7974s | Limita maxima (+30%): 2.4570s
