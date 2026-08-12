@@ -1,9 +1,0 @@
-ERROR:tests.conftest:Failed to capture or attach screenshot on failure.
-Traceback (most recent call last):
-  File "/opt/atlassian/pipelines/agent/build/tests/conftest.py", line 216, in pytest_runtest_makereport
-    screenshot = driver.get_screenshot_as_png()
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 1003, in get_screenshot_as_png
-    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
-                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-AttributeError: 'NoneType' object has no attribute 'encode'
