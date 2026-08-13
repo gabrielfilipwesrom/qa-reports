@@ -1,0 +1,2 @@
+
+[PERF LOG - Client Select] Timp actual: 3.0361s | Limita maxima (+30%): 3.9689s
