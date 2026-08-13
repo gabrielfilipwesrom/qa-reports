@@ -1,9 +1,19 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","15256","test_trav_5020_performance_search_reservations_by_client_name_load_time","tests.performance","Thu Aug 13 15:40:12 EEST 2026","failed","Thu Aug 13 15:40:28 EEST 2026","","test_trav_5020_user_journey_performance","",""
-"","15803","test_trav_5020_performance_user_journey_resort_search_to_payment","tests.performance","Thu Aug 13 15:38:33 EEST 2026","passed","Thu Aug 13 15:38:49 EEST 2026","","test_trav_5020_user_journey_performance","",""
-"","12587","test_trav_5020_performance_search_reservations_last_week_load_time","tests.performance","Thu Aug 13 15:39:55 EEST 2026","failed","Thu Aug 13 15:40:08 EEST 2026","","test_trav_5020_user_journey_performance","",""
-"","35987","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Thu Aug 13 15:40:42 EEST 2026","passed","Thu Aug 13 15:41:18 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
-"","45268","test_trav_5020_performance_save_reservation_load_time","tests.performance","Thu Aug 13 15:39:05 EEST 2026","broken","Thu Aug 13 15:39:50 EEST 2026","","test_trav_5020_user_journey_performance","",""
-"","7434","test_trav_5020_performance_client_selection_load_time","tests.performance","Thu Aug 13 15:38:53 EEST 2026","passed","Thu Aug 13 15:39:01 EEST 2026","","test_trav_5020_user_journey_performance","",""
-"","5140","test_trav_5020_performance_open_random_reservation_load_time","tests.performance","Thu Aug 13 15:40:32 EEST 2026","passed","Thu Aug 13 15:40:38 EEST 2026","","test_trav_5020_user_journey_performance","",""
-"","17046","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Thu Aug 13 15:41:22 EEST 2026","passed","Thu Aug 13 15:41:39 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","100106","test_reservation_with_local_service_and_pay","tests.scripts","Thu Aug 13 16:59:59 EEST 2026","passed","Thu Aug 13 17:01:40 EEST 2026","","reservation_with_local_service_and_pay_test","",""
+"","21431","test_trav_22_add_and_remove_rooms_from_cart","tests.scripts","Thu Aug 13 17:01:44 EEST 2026","passed","Thu Aug 13 17:02:06 EEST 2026","","trav_22_add_and_remove_rooms_from_cart_test","",""
+"","65971","test_quick_search_reservation_cancel_reservation_flow","tests.scripts","Thu Aug 13 16:57:28 EEST 2026","passed","Thu Aug 13 16:58:34 EEST 2026","","quick_search_reservation_cancel_reservation_flow_test","",""
+"
+    Test Case TRAV-52 : Platita partial - Tichete vacanta
+
+    Summary:
+    Verifica incasare pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","52588","test_trav_52_cancel_reservation_with_penalty_voucher","tests.scripts","Thu Aug 13 17:02:11 EEST 2026","broken","Thu Aug 13 17:03:03 EEST 2026","","trav_52_cancel_reservation_with_penalty_voucher_test","",""
+"","76137","test_reservation_and_pay_with_voucher","tests.scripts","Thu Aug 13 16:58:38 EEST 2026","passed","Thu Aug 13 16:59:54 EEST 2026","","reservation_and_pay_with_voucher_test","",""
+"
+    Test Case TRAV-51 : Platita partial - OP
+
+    Summary:
+    Verifica incasarea pentru facturile platite partial si rezervarea anulata,
+    fara bifa ""Anuleaza fara penalizare""
+    ","107869","test_trav_51_platita_partial_op","tests.scripts.achita_rezervare.rezervari_anulate.fara_bifa_anuleaza_fara_penalizare","Thu Aug 13 16:55:35 EEST 2026","passed","Thu Aug 13 16:57:23 EEST 2026","","trav_51_platita_partial_op_test","",""
